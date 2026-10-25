@@ -14,11 +14,15 @@
 
 ### Hi, I’m eggCore_
 
+*Salut, moi c’est eggCore_.*
+
 I build tools around things I enjoy using. A clearer interface, an easier setup, a useful detail that saves a few steps — that’s the kind of progress I’m after.
 
 *Je crée des outils autour de ce que j’aime utiliser. Une interface plus claire, une installation plus simple, un détail utile qui évite quelques manipulations : c’est ce que j’essaie d’améliorer, version après version.*
 
 ### On the workbench
+
+*Sur l’établi*
 
 **Switch Control Center**  
 SD card management and a homebrew workspace for Switch.  
@@ -37,6 +41,8 @@ These projects are at different stages. Some features work today; others are pro
 *Ces projets sont à des stades différents. Certaines fonctions sont utilisables ; d’autres sont des prototypes ou demandent encore des essais sur de vrais appareils. Ce profil présente l’atelier : tous les projets ne sont pas encore diffusés publiquement.*
 
 ### What I’m working toward
+
+*Ce que je cherche à améliorer*
 
 Clearer interfaces, easier installation, useful documentation and fewer rough edges. Feedback from real use helps decide what needs attention next.
 
